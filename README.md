@@ -4,4 +4,4 @@
 
 Deneme yapiyorum
 Readme Ekliyorum
-[loremipsum](http://google.com)
+[Benim sayfam](https://twitter.com/KairossLoL)
