@@ -2,5 +2,6 @@
 
 ## Alt Bilgi 
 
-Deneme yapiyorum
+Deneme yapiyorum c
+Readme Ekliyorum
 [Benim sayfam](https://twitter.com/KairossLoL)
