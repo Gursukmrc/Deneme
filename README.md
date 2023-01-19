@@ -4,4 +4,4 @@
 
 Deneme yapiyorum
 Readme Ekliyorum
-[loremipsum] (http://google.com)
+[loremipsum](http://google.com)
