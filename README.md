@@ -43,5 +43,5 @@ console.Hello World
 ---
 
 | Ürünlerin Numaraları| Ürün Açıklaması| Ürünlerin Fiyatı|
-| :--- | :---: | ---: |
+| --- | --- | --- |
 | 1 | Açıklama | Fiyatı |
