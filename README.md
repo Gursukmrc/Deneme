@@ -42,6 +42,6 @@ console.Hello World
 3. Markdown uzerinden ogreniyorum.    
 ---
 
-| Ürünlerin Numaraları| Ürün Açıklaması| Ürünlerin Fiyatı|
+| Moe|  George| Lykaboss|
 | :--- | :---: | ---: |
-| 1 | Açıklama | Fiyatı |
+| Scammer | Boss | E VER |
