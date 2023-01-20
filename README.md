@@ -16,5 +16,7 @@ Readme Ekliyorum
 ```javascript
 console.'hello world'
 ```
+[Benim Twitter'im](https://twitter.com/KairossLoL)
+
 ![Benim Resmim](https://pbs.twimg.com/profile_images/1184479722975170565/-8YP5QTM_400x400.jpg)
 
